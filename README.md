@@ -1,4 +1,4 @@
-# Miden Voting Demo
+# Miden Voting Demo Simulator
 
 A fully client-side, privacy-preserving, anonymous voting application built with the [Miden SDK](https://github.com/0xMiden/miden-sdk) and React.
 
@@ -6,7 +6,7 @@ A fully client-side, privacy-preserving, anonymous voting application built with
 - **Admin can generate voting notes, note hashes, and Merkle root**
 - **Users can vote anonymously using their note**
 - **All cryptography and ZK logic is in-browser**
-- **Live, on-chain tally using Miden contracts**
+- **Simulation just like Live, on-chain tally using Miden contracts**
 - **No backend required: all state is on-chain and visible to all**
 
 ## Why This Project?
@@ -49,5 +49,3 @@ This project is designed as a teaching tool for new developers to:
 - See inline comments for explanations of each step.
 
 ---
-
-**This project is a reference implementation for Miden SDK dApps and is suitable for devrel interviews, hackathons, and onboarding new developers.** 
