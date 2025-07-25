@@ -103,12 +103,13 @@ function App() {
       </Container>
       <Box sx={{ textAlign: 'center', py: 3, color: '#888', fontSize: 14 }}>
         Built with ❤️ for the Miden ecosystem. &nbsp;|&nbsp;{' '}
-        <a
-          href="https://github.com/0xMiden/miden-sdk"
-          style={{ color: '#aaa' }}
-        >
-          Miden SDK
-        </a>
+            <a href="https://miden.xyz/developers" style={{ color: '#aaa' }}>
+              Miden SDK
+            </a>
+            &nbsp;|&nbsp; by &nbsp;
+            <a href="https://x.com/simarpreet_019" style={{ color: '#aaa' }}>
+              simarpreet_019
+            </a>
       </Box>
     </Router>
   );
